@@ -1,4 +1,4 @@
-# Tilt Sensor LED Indicator – ME331 Project 1
+# Tilt Sensor LED Indicator – ME 331 Project 1
 
 This project implements a tilt-sensing circuit using a pull-up resistor configuration on an Arduino. It reads input from a tilt sensor and uses code to control two LEDs based on tilt state.
 
